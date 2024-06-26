@@ -1,1 +1,0 @@
-# POS-DEV-OPS
